@@ -227,9 +227,7 @@
   line-height: 1.15;
   font-weight: 600;
 }
-.subtitle-text {
-  display: flex;
-}
+
 .subtitle-text {
   margin: auto;
   margin-top: 70px;
@@ -278,7 +276,6 @@
   display: flex;
   margin-right: auto;
   margin-left: auto;
-  margin-bottom: 100px;
   flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: 90px;
