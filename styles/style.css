@@ -23,8 +23,12 @@
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
-  height: 568px;
+  background-color: #2f80ed;
   width: 568px;
+  height: 568px;
+  position: absolute;
+  right: 0px;
+  margin-top: 64px;
 }
 
 /* и элемента с модификатором вида ключ-значение */
@@ -34,14 +38,7 @@
   margin-right: 0;
   margin-top: 80px;
 }
-.header__square-pic {
-  background-color: #2f80ed;
-  width: 568px;
-  height: 568px;
-  position: absolute;
-  right: 0px;
-  margin-top: 64px;
-}
+
 .link {
   color: #2f80ed;
   text-decoration: none;
@@ -215,7 +212,6 @@
 }
 
 .feynman__title {
-  margin: auto;
   font-size: 120px;
   line-height: 1.15;
   font-weight: 600;
