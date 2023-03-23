@@ -265,6 +265,7 @@
   background-size: cover;
   position: absolute;
   right: -210px;
+  top: 0px;
 }
 .footer {
   background-color: #1f1f1f;
