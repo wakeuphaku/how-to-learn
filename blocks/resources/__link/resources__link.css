@@ -3,3 +3,7 @@
   height: 38px;
   text-align: center;
 }
+.resources__link:hover {
+  opacity: 0.5;
+  transition: scale(105%);
+}
