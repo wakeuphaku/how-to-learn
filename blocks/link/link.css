@@ -1,0 +1,9 @@
+.link {
+  color: #2f80ed;
+  text-decoration: none;
+  transition: transform 0.5s;
+}
+.link:hover {
+  opacity: 0.5;
+  transform: scale(105%);
+}
